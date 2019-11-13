@@ -1,0 +1,42 @@
+.form-wrapper {
+    display: grid;
+    grid-template-columns: auto;
+    background-image: url('https://media.wnyc.org/i/800/0/c/85/1/shutterstock_119131492.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
+  .header-wrapper {
+    display: grid;
+    min-width: 300px;
+    text-align: center;
+    min-height: 300px;
+    font-size: 2.5vw;
+  }
+
+  .header {
+    display: grid;
+    color: black;
+    align-self: end;
+  }
+
+  .header-text {
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+
+  .submit-btn {
+    margin: 40px 0px 0px 0px;
+    background-color: black;
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 25px;
+    width: 50px;
+    color: white;
+  }
+
+  .search-input {
+    width: 80%;
+  }

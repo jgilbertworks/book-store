@@ -1,0 +1,36 @@
+.book-wrapper{
+    display:grid;
+    grid-template-columns: 2fr 1fr;
+    background-color: white;
+    text-align: center;   
+    justify-items: center;
+    align-items: center;
+    padding: 30px;
+    width: 75%;
+    margin: 0 auto;
+    border-radius: 15px;
+    color:black;
+}
+
+.delete-btn {
+    color: white;
+    background-color: black;
+    width: 100%;
+    font-size: 14px;
+    border-radius: 5px;
+}
+
+.link {
+    text-decoration: none;
+    color:white;
+}
+  
+@media only screen and (max-width: 1100px)  {
+    .submit-btn {
+      width: 75%;
+      
+    }
+    .book-wrapper {
+        grid-template-columns: 1fr;
+    }
+  }

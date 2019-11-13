@@ -1,0 +1,10 @@
+.search-wrapper {
+    /* width: 90%;
+    color: white;
+    margin: 0px auto; */
+    display:grid;
+    grid-template-columns: auto;
+    /* background-image: url('https://backgroundcheckall.com/wp-content/uploads/2017/12/teachers-background-7.jpg'); */
+    /* background-size: cover;
+    background-size: no repeat; */
+}
