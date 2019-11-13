@@ -1,5 +1,5 @@
 {
-  "name": "React-Google-Books-Search",
+  "name": "book-store",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FredsGitHubAccount/React-Google-Books-Search.git"
+    "url": "git+https://github.com/jgilbertworks/book-store"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FredsGitHubAccount/React-Google-Books-Search/issues"
+    "url": "https://github.com/jgilbertworks/book-store"
   },
-  "homepage": "https://github.com/FredsGitHubAccount/React-Google-Books-Search#readme",
+  "homepage": "https://github.com/jgilbertworks/book-store",
   "devDependencies": {
     "concurrently": "^4.1.0",
     "nodemon": "^1.18.7"
