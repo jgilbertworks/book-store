@@ -63,7 +63,7 @@ Back-End
 ### Setup 
 ```
 1. git clone https://github.com/jgilbertworks/book-store.git
-2. cd React-Google-Books-Search in your terminal
+2. cd book-store in your terminal
 3. npm run install
 4. npm run start
 
