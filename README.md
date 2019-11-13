@@ -1,4 +1,4 @@
-# React-Google-Books-Search
+# book-store
 
 Search and save books from the Google Books API
 
